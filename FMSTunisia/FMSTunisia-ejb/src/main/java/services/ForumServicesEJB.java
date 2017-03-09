@@ -64,4 +64,9 @@ public class ForumServicesEJB implements ForumServicesEJBRemote, ForumServicesEJ
 				.setParameter("fid", idForum).getSingleResult();
 	}
 
+	@Override
+	public void afficheOK() {
+System.out.println("OK");		
+	}
+
 }

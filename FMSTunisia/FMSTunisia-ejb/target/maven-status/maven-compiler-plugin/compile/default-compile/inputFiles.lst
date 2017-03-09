@@ -1,27 +1,27 @@
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Moderator.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Member.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ForumServicesEJB.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\MessageManagementEJB.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Administrator.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\SectionServicesEJBLocal.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Comment.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ComplaintManagementEJB.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\SurveyReplies.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\User.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Complaint.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\SectionServicesEJBRemote.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ComplaintManagementEJBRemote.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Post.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Forum.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\MessageManagementEJBRemote.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\SurveyQuestions.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ForumServicesEJBRemote.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Message.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\CommentReply.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Survey.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Section.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\SectionServicesEJB.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\SurveyAnwer.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ForumServicesEJBLocal.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Visit.java
-C:\Users\Khbou Omar\Desktop\Java EE\workspace\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Reaction.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Moderator.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Comment.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ForumServicesEJBRemote.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ComplaintManagementEJBRemote.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\MessageManagementEJBRemote.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Post.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Survey.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Forum.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Message.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\SurveyQuestions.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ForumServicesEJB.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\User.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ComplaintManagementEJB.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Administrator.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Section.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\SurveyReplies.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\CommentReply.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Visit.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\SectionServicesEJBLocal.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\MessageManagementEJB.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Reaction.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\SectionServicesEJB.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Complaint.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\Member.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\SectionServicesEJBRemote.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\entities\SurveyAnwer.java
+C:\Users\Iyed\git\PDev\FMSTunisia\FMSTunisia-ejb\src\main\java\services\ForumServicesEJBLocal.java

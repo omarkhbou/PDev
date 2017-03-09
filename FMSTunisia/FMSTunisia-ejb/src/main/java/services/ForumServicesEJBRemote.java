@@ -16,4 +16,5 @@ public interface ForumServicesEJBRemote {
 	public Set<Forum> findByNameForum(String nameForum);
 	public List<Forum> findAllForums();
 	public Forum findForumById(int idForum);
+	public void afficheOK();
 }
